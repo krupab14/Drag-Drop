@@ -1,0 +1,6 @@
+/* Keeping global styles in index.css. This file holds small component tweaks if needed. */
+.hide-on-mobile{ display: inline-flex; }
+@media (max-width: 860px){
+  .board{ grid-template-columns: 1fr; }
+  .hide-on-mobile{ display: none; }
+}
