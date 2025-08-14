@@ -22,10 +22,4 @@ Organize your tasks into **To Do**, **In Progress**, and **Done** columns with s
 - **Styling:** CSS (custom dark theme)
 - **State Management:** useState (React Hooks)
 - **Drag & Drop:** HTML5 Drag API
-
-
-# Drag-Drop
-# Drag-Drop
-# Drag-Drop
-# Drag-Drop
 # Drag-Drop
